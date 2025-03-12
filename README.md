@@ -9,8 +9,9 @@ The Bankist App is a JavaScript application that allows users to log in, view th
 [VISIT WEBPAGE](https://bankist-app-daria-aleshina.netlify.app/)
 
 Use these user login credentials:
-user: **js** | PIN: **1111**
-user: **da** | PIN: **2222**
+
+- user: **js** | PIN: **1111**
+- user: **da** | PIN: **2222**
 
 ![Main Screen](bankist-app-screenshot.png)
 
