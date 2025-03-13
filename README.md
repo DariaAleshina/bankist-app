@@ -13,6 +13,8 @@ Use these user login credentials:
 - user: **js** | PIN: **1111**
 - user: **da** | PIN: **2222**
 
+⚠️ Mobile Responsiveness: This project is best viewed on desktop. Mobile support is in progress!
+
 ![Main Screen](bankist-app-screenshot.png)
 
 ## Features
